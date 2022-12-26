@@ -1,5 +1,4 @@
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("priv people");
+    public static void main(String[] args) {;
     }
 }
